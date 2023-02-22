@@ -1,0 +1,3 @@
+Exercice : Écrire un programme Java qui demande à l'utilisateur son nom et son âge, 
+puis qui affiche un message de bienvenue personnalisé. 
+Utilisez l'IDE de votre choix pour créer le projet et exécuter le programme.

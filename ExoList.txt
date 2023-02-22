@@ -1,0 +1,24 @@
+I. Introduction à Java
+Exercice : Écrire un programme Java qui demande à l'utilisateur son nom et son âge, puis qui affiche un message de bienvenue personnalisé. Utilisez l'IDE de votre choix pour créer le projet et exécuter le programme.
+
+II. Les fondamentaux de la programmation Java
+Exercice : Écrire un programme Java qui prend un tableau de nombres entiers en entrée, et qui calcule la somme, la moyenne et le maximum de ces nombres. Utilisez des méthodes pour chaque calcul et une boucle pour parcourir le tableau.
+
+III. Gestion des erreurs et exceptions en Java
+Exercice : Écrire un programme Java qui prend un nombre entier en entrée, et qui vérifie si ce nombre est pair ou impair. Si le nombre est pair, le programme affiche "Le nombre est pair", sinon il affiche "Le nombre est impair". Utilisez une exception pour gérer le cas où l'utilisateur entre une chaîne de caractères ou un nombre décimal.
+IV. Programmation orientée objet avancée en Java
+Exercice : Écrire un programme Java qui simule un compte bancaire. Le programme doit permettre de créer un compte avec un solde initial, de retirer de l'argent du compte, de déposer de l'argent sur le compte, et d'afficher le solde actuel. Utilisez des classes pour représenter le compte bancaire et les opérations effectuées sur ce compte.
+
+V. Développement d'applications graphiques avec Java
+Exercice : Écrire un programme Java qui affiche une fenêtre graphique avec un bouton "Cliquez ici". Lorsque l'utilisateur clique sur le bouton, le programme affiche un message dans la console. Utilisez la bibliothèque Swing pour créer la fenêtre et le gestionnaire d'événements pour réagir au clic sur le bouton.
+
+VI. Développement d'applications Web avec Java
+Exercice : Écrire un servlet Java qui reçoit des requêtes HTTP GET avec un paramètre "nom" et qui renvoie une réponse HTTP avec un message de bienvenue personnalisé. Utilisez la bibliothèque servlet pour créer le servlet, et déployez-le sur un serveur Web tel que Tomcat.
+
+VII. Bases de données et persistance des données en Java
+Exercice : Écrire un programme Java qui se connecte à une base de données MySQL, et qui affiche le contenu d'une table de cette base de données dans la console. Utilisez la bibliothèque JDBC pour se connecter à la base de données et exécuter une requête SELECT.
+
+VIII. Sécurité en Java
+Exercice : Écrire un programme Java qui utilise la bibliothèque BouncyCastle pour générer une paire de clés RSA, chiffrer un message avec la clé publique, puis déchiffrer le message avec la clé privée. Utilisez la bibliothèque BouncyCastle pour générer les clés et pour chiffrer et déchiffrer le message.
+IX. Déploiement et gestion de projets Java
+Exercice : Écrire des tests unitaires pour une classe Java qui calcule la somme, la moyenne et le maximum d'un tableau de nombres entiers. Utilisez un framework de test tel que JUnit pour créer
