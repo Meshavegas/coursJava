@@ -1,0 +1,4 @@
+Les fondamentaux de la programmation Java
+Exercice : Écrire un programme Java qui prend un tableau de nombres entiers en entrée,
+et qui calcule la somme, la moyenne et le maximum de ces nombres. Utilisez des méthodes
+pour chaque calcul et une boucle pour parcourir le tableau.
